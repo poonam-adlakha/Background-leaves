@@ -1,6 +1,6 @@
 # Background-leaves
 
-No DIV, Made with only CSS.
+No DIV, Made with only CSS Background property.
 
 [Website Link](https://background-leaves.netlify.app/)
 
